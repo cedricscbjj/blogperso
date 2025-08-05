@@ -1,0 +1,19 @@
+{
+  "name": "blogproject",
+  "version": "1.0.0",
+  "description": "new project on express sqlite",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cedricscbjj/blogperso.git"
+  },
+  "author": "myself",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cedricscbjj/blogperso/issues"
+  },
+  "homepage": "https://github.com/cedricscbjj/blogperso#readme"
+}
